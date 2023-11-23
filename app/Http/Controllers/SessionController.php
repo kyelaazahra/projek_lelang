@@ -13,7 +13,7 @@ class SessionController extends Controller
     function index()
     {
         return view('pages.login-new', [
-            'title' => 'Pojok Lelang | Log In'
+            'title' => 'Cylang | Log In'
         ]);
     }
 
@@ -43,7 +43,7 @@ class SessionController extends Controller
     function register()
     {
         return view('pages.register-new',[
-            'title' => 'Pojok Lelang | Register'
+            'title' => 'Cylang | Register'
         ]);
     }
 

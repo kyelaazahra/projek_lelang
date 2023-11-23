@@ -17,17 +17,17 @@
                     <div class="card mb-3">
                         <div class="row g-0 mx-3 my-3">
                             <div class="col-md-4">
-                                <img src="/img/brand-logo-new.png" style="height:300px;" class="img-fluid rounded-start mx-auto" alt="Pojok lelang Logo">
+                                <img src="/img/cy.png" style="height:300px;" class="img-fluid rounded-start mx-auto" alt="Pojok lelang Logo">
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
-                                    <h4 style="color: #055E68" class="mt-5">Pojok Lelang</h4>
+                                    <h4 style="color: #055E68" class="mt-5">Cylang</h4>
                                     <h6>A Real-time Auction Site for Everyone.</h6>
-                                    <p class="card-text mt-4">Pojok Lelang merupakan website lelang online yang ideal bagi
+                                    <p class="card-text mt-4">Cylang merupakan sebuah website lelang online yang praktis bagi
                                         semua orang untuk menemukan barang-barang
-                                        impian mereka dengan mudah, aman, dan efisien.
+                                        keren, aman, dan efisien.
                                     </p>
-                                    <p class="card-text">Motto Kami: Everyone Can Bid.</p>
+                                    <p class="card-text">Motto Kami: Golden Hour.</p>
                                 </div>
                             </div>
                         </div>
@@ -38,10 +38,10 @@
                                 <h4 style="color: #055E68" class="card-title text-center mb-3">Hubungi Kami</h4>
                                 <div class="row">
                                     <div class="col-lg-3 col-sm-6">
-                                        <a href="https://wa.me/+6289513886227" target="blank_">
+                                        <a href="https://wa.me/+6283865868155" target="blank_">
                                             <div class="info-box card">
                                                 <i style="color: #128C7E" class="bi bi-whatsapp"></i>
-                                                <h3>WhatsApp</h3>
+                                                <h3>Darell</h3>
                                                 {{-- <p>Citra</p> --}}
                                             </div>
                                         </a>
@@ -50,7 +50,7 @@
                                         <a href="https://wa.me/" target="blank_">
                                             <div class="info-box card">
                                                 <i style="color: #128C7E" class="bi bi-whatsapp"></i>
-                                                <h3>WhatsApp</h3>
+                                                <h3>Kayla</h3>
                                                 {{-- <p>Lintang</p> --}}
                                             </div>
                                         </a>
@@ -59,20 +59,12 @@
                                         <a href="https://wa.me/" target="blank_">
                                             <div class="info-box card">
                                                 <i style="color: #128C7E" class="bi bi-whatsapp"></i>
-                                                <h3>WhatsApp</h3>
+                                                <h3>Zahra</h3>
                                                 {{-- <p>Amanda</p> --}}
                                             </div>
                                         </a>
                                     </div>
-                                    <div class="col-lg-3 col-sm-6">
-                                        <a href="https://wa.me/" target="blank_">
-                                            <div class="info-box card">
-                                                <i style="color: #128C7E" class="bi bi-whatsapp"></i>
-                                                <h3>WhatsApp</h3>
-                                                {{-- <p>Fiana</p> --}}
-                                            </div>
-                                        </a>
-                                    </div>
+                                
                                 </div>
                             </div>
                         </div>
@@ -83,7 +75,7 @@
                                 <h4 style="color: #055E68" class="card-title text-center mb-3">Ikuti Kami</h4>
                                 <div class="row">
                                     <div class="col-lg-3 col-sm-6">
-                                        <a href="https://github.com/r-aozora/Pojok-Lelang" target="blank_">
+                                        <a href="https://github.com/PurplishCode" target="blank_">
                                             <div class="info-box card">
                                                 <i style="color: #171515" class="bi bi-github mb-0"></i>
                                                 <h3>GitHub</h3>

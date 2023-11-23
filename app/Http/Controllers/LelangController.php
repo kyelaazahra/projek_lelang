@@ -48,7 +48,7 @@ class LelangController extends Controller
 
         return view('lelang.index')->with([
             'lelang' => $lelang,
-            'title' => 'Pojok Lelang | Aktivasi Lelang',
+            'title' => 'Cylang | Aktivasi Lelang',
         ]);
     }
 
@@ -63,7 +63,7 @@ class LelangController extends Controller
 
         return view('lelang.create')->with([
             'barang' => $barang,
-            'title' => 'Pojok Lelang | Tambah Lelang'
+            'title' => 'Cylang | Tambah Lelang'
         ]);
     }
 
@@ -122,7 +122,7 @@ class LelangController extends Controller
 
         return view('lelang.edit')->with([
             'lelang' => $lelang,
-            'title' => 'Pojok Lelang | Tambah Lelang'
+            'title' => 'Cylang | Tambah Lelang'
         ]);
     }
 

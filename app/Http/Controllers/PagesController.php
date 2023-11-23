@@ -80,7 +80,7 @@ class PagesController extends Controller
             'product1' => $product1,
             'product2' => $product2,
             'product3' => $product3,
-            'title' => 'Pojok Lelang | Home'
+            'title' => 'Cylang | Home'
         ]);
     }
 
@@ -100,14 +100,14 @@ class PagesController extends Controller
         return view('pages.profile-new')->with([
             'telepon' => $telepon,
             'history' => $history,
-            'title' => 'Pojok Lelang | Your Profile'
+            'title' => 'Cylang | Your Profile'
         ]);
     }
 
     public function about()
     {
         return view('pages.about-new', [
-            'title' => 'Pojok lelang | About'
+            'title' => 'Cylang | About'
         ]);
     }
 }

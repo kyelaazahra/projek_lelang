@@ -35,7 +35,7 @@ class MasyarakatController extends Controller
 
         return view('masyarakat.index')->with([
             'masyarakat' => $masyarakat,
-            'title' => 'Pojok Lelang | Data Masyarakat',
+            'title' => 'Cylang | Data Masyarakat',
         ]);
     }
 
@@ -47,7 +47,7 @@ class MasyarakatController extends Controller
     public function create()
     {
         return view('masyarakat.create')->with([
-            'title' => 'Pojok Lelang | Tambah Data',
+            'title' => 'Cylang | Tambah Data',
         ]);
     }
 
@@ -103,7 +103,7 @@ class MasyarakatController extends Controller
         return view('masyarakat.detail')->with([
             'masyarakat' => $masyarakat,
             'telepon' => $telepon,
-            'title' => 'Pojok Lelang | Detail Masyarakat',
+            'title' => 'Cylang | Detail Masyarakat',
         ]);
     }
 
@@ -119,7 +119,7 @@ class MasyarakatController extends Controller
 
         return view('masyarakat.edit')->with([
             'masyarakat' => $masyarakat,
-            'title' => 'Pojok Lelang | Edit Data'
+            'title' => 'Cylang | Edit Data'
         ]);
     }
 

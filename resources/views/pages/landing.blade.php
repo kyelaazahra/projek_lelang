@@ -4,7 +4,7 @@
     <main id="main" class="main main-landing">
         <div class="position-relative overflow-hidden p-5 p-md-5 text-white bg-light bimage" style="background-image:url({{ asset('img/lading2.jpg') }}); background-repeat: no-repeat; position:relative;background-size:cover; ">
             <div class="p-lg-3 my-5 judul">
-                <h1 class="display-5 fw-bold">Pojok Lelang</h1>
+                <h1 class="display-5 fw-bold">Cylang</h1>
                 <blockquote class="blockquote">
                     <p class="lead fw-normal mt-3">A Real-time Auction Site for Everyone.</p>
                 </blockquote>
@@ -14,7 +14,7 @@
                         <p>Everyone can Bid.</p>
                     </blockquote>
                     <figcaption class="blockquote-footer">
-                        <cite title="Source Title" style="color:#ffffff">Pojok Lelang</cite>
+                        <cite title="Source Title" style="color:#ffffff">Cylang</cite>
                     </figcaption>
                 </figure>
             </div>

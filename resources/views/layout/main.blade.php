@@ -9,7 +9,7 @@
         <meta content="" name="description">
         <meta content="" name="keywords">
 
-        <title>{{ $title }}</title>
+        <title>Cylang | Home</title>
 
         @include('part.link')
     </head>

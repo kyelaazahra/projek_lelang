@@ -38,7 +38,7 @@ class GaleryController extends Controller
 
         return view('gallery.index')->with([
             'lelang' => $lelang,
-            'title' => 'Pojok Lelang | Galeri Lelang',
+            'title' => 'Cylang | Galeri Lelang',
         ]);
     }
 

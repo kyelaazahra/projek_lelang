@@ -10,7 +10,7 @@
                         <div class="d-flex justify-content-center py-4"> 
                             <a href="{{ url('/') }}" class="logo d-flex align-items-center w-auto"> 
                             <img src="img/brand-logo-new-2.png" alt=""> 
-                            <span class="d-none d-lg-block">Pojok Lelang</span> 
+                            <span class="d-none d-lg-block">Cylang</span> 
                             </a>
                         </div>
                         <div class="card mb-3">

@@ -2,7 +2,7 @@
     <div class="d-flex align-items-center justify-content-between">
         <a href="{{ url('/') }}" class="logo d-flex align-items-center">
             <img src="{{ asset('img/brand-logo-new-2.png') }}" alt="Pojok Lelang Logo">
-            <span style="color: #055E68" class="d-none d-lg-block">Pojok Lelang</span>
+            <span style="color: #055E68" class="d-none d-lg-block">Cylang</span>
         </a> 
         <i style="color: #055E68" class="bi bi-list toggle-sidebar-btn"></i>
     </div>
