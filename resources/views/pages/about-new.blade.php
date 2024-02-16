@@ -46,6 +46,44 @@
                                             </div>
                                         </a>
                                     </div>
+
+                                    <div class="col-lg-3 col-sm-6">
+                                        <a href="https://wa.me/+6283865868155" target="blank_">
+                                            <div class="info-box card">
+                                                <i style="color: #128C7E" class="bi bi-whatsapp"></i>
+                                                <h3>Ahmad</h3>
+                                                {{-- <p>Citra</p> --}}
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-lg-3 col-sm-6">
+                                        <a href="https://wa.me/+6283865868155" target="blank_">
+                                            <div class="info-box card">
+                                                <i style="color: #128C7E" class="bi bi-whatsapp"></i>
+                                                <h3>Angga</h3>
+                                                {{-- <p>Citra</p> --}}
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-sm-6">
+                                        <a href="https://wa.me/+6283865868155" target="blank_">
+                                            <div class="info-box card">
+                                                <i style="color: #128C7E" class="bi bi-whatsapp"></i>
+                                                <h3>Arjuna</h3>
+                                                {{-- <p>Citra</p> --}}
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-sm-6">
+                                        <a href="https://wa.me/+6283865868155" target="blank_">
+                                            <div class="info-box card">
+                                                <i style="color: #128C7E" class="bi bi-whatsapp"></i>
+                                                <h3>Iqbal</h3>
+                                                {{-- <p>Citra</p> --}}
+                                            </div>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
