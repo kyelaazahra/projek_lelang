@@ -8,7 +8,7 @@
                 <blockquote class="blockquote">
                     <p class="lead fw-normal mt-3">A Real-time Auction Site for Everyone.</p>
                 </blockquote>
-                <a class="btn btn-sm text-white" href="{{ rl('/gallery') }}" style="background-color: #055E68 ;border-radius: 20px">Mulai Lelang</a>
+                <a class="btn btn-sm text-white" href="{{ url('/gallery') }}" style="background-color: #055E68 ;border-radius: 20px">Mulai Lelang</a>
                 <figure class="text-end">
                     <blockquote class="blockquote">
                         <p>Everyone can Bid.</p>
