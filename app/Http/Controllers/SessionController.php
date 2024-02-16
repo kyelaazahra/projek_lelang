@@ -26,6 +26,7 @@ class SessionController extends Controller
             'password'=>'required'
         ]);
 
+
         $infologin = [
             'username'=>$request->username,
             'password'=>$request->password,

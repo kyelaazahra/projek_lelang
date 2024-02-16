@@ -36,11 +36,11 @@ class SignupadminController extends Controller
         ];
         User::create($data);
 
-        $infologin = [
-            'nama'=>$request->nama,
-            'username'=>$request->username,
-            'password'=>$request->password,
-        ];
+            $infologin = [
+                'nama'=>$request->nama,
+                'username'=>$request->username,
+                'password'=>$request->password,
+            ];
 
         if(Auth::attempt($infologin)){
             toast('Berhasil Register!','warning');

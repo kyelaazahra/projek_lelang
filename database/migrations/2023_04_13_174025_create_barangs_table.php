@@ -20,7 +20,8 @@ class CreateBarangsTable extends Migration
             $table->text('deskripsi_barang')->nullable();
             $table->string('foto');
 
-            $table->timestamps();
+            $table->timestamp("created_at");
+            $table->timestamp("created_at");
         });
     }
 

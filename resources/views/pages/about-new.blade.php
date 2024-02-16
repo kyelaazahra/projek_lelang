@@ -35,7 +35,7 @@
                     <section class="section contact">
                         <div class="row gy-4">
                             <div class="col-xl-12">
-                                <h4 style="color: #055E68" class="card-title text-center mb-3">Hubungi Kami</h4>
+                                <h4 style="color: #055E68" class="card-title text-center mb-3">Creator</h4>
                                 <div class="row">
                                     <div class="col-lg-3 col-sm-6">
                                         <a href="https://wa.me/+6283865868155" target="blank_">
@@ -46,25 +46,6 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <div class="col-lg-3 col-sm-6">
-                                        <a href="https://wa.me/" target="blank_">
-                                            <div class="info-box card">
-                                                <i style="color: #128C7E" class="bi bi-whatsapp"></i>
-                                                <h3>Kayla</h3>
-                                                {{-- <p>Lintang</p> --}}
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <div class="col-lg-3 col-sm-6">
-                                        <a href="https://wa.me/" target="blank_">
-                                            <div class="info-box card">
-                                                <i style="color: #128C7E" class="bi bi-whatsapp"></i>
-                                                <h3>Zahra</h3>
-                                                {{-- <p>Amanda</p> --}}
-                                            </div>
-                                        </a>
-                                    </div>
-                                
                                 </div>
                             </div>
                         </div>

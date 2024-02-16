@@ -2,13 +2,13 @@
 
 @section('content')
     <main id="main" class="main main-landing">
-        <div class="position-relative overflow-hidden p-5 p-md-5 text-white bg-light bimage" style="background-image:url({{ asset('img/lading2.jpg') }}); background-repeat: no-repeat; position:relative;background-size:cover; ">
+        <div class="position-relative overflow-hidden p-5 p-md-5 text-white bg-light bimage" style="background-image:url({{ asset('img/lading2.jpg') }}); position:relative;background-size:cover; ">
             <div class="p-lg-3 my-5 judul">
                 <h1 class="display-5 fw-bold">Cylang</h1>
                 <blockquote class="blockquote">
                     <p class="lead fw-normal mt-3">A Real-time Auction Site for Everyone.</p>
                 </blockquote>
-                <a class="btn btn-sm text-white" href="{{ url('/gallery') }}" style="background-color: #055E68 ;border-radius: 20px">Mulai Lelang</a>
+                <a class="btn btn-sm text-white" href="{{ rl('/gallery') }}" style="background-color: #055E68 ;border-radius: 20px">Mulai Lelang</a>
                 <figure class="text-end">
                     <blockquote class="blockquote">
                         <p>Everyone can Bid.</p>

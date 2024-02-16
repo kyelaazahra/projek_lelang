@@ -34,7 +34,7 @@
                                         <input name="id" type="number" class="form-control" id="id" value="{{ Session::get('id') }}">
                                         <div class="invalid-feedback"> Masukkan ID yang valid</div>
                                     </div>
-                                </div>
+                                </di    v>
                                 <div class="row mb-3">
                                     <label for="nama_barang" class="col-md-4 col-lg-3 col-form-label">Nama Barang</label>
                                     <div class="col-md-8 col-lg-9">

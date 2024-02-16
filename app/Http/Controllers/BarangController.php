@@ -75,20 +75,19 @@ class BarangController extends Controller
             'deskripsi_barang' => $request->deskripsi_barang,
             'foto' => $foto_nama,
         ];
-
         Barang::create($barang);
         toast('Data Ditambahkan', 'success');
         return redirect('barang');
     }
 
-    /**
+        /**
      * Display the specified resource.
      *
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
     public function show($id)
-    {
+    {   
         $barang = Barang::where('id', $id)->first();
 
         return view('barang.detail')->with([
